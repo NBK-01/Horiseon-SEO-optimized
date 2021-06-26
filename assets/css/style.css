@@ -51,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Use of main selector previously "Hero" to follow semantic flow and accessibility features */
 main {
     height: 800px;
     width: 100%;
@@ -70,13 +70,13 @@ main {
     float: right;
     margin-left: 25px;
 }
-
+/*Article selector referring to previously known div identified as "Benefits"*/
 article{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*aside is a selector that refers to the aside tag which is a semantic element places on the sides of a web page, this is used to increase SEO and accessibility*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -189,7 +189,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer selector refers to the div "footer", changing the div to a semantic element helps with SEO and easy access to users who need it*/
 footer {
     padding: 30px;
     clear: both;
