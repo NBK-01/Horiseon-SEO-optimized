@@ -20,3 +20,6 @@
 
     -CSS and HTML comments and links help other developers understand what others left behind.
 
+
+### Link to Github pages:
+   # https://nbk-01.github.io/Horiseon-SEO-optimized/
