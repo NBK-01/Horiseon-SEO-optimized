@@ -1,6 +1,6 @@
 # Horiseon SEO optimized
 
-   ### This version of Horiseon is an optimized edition with **SEO** and **Accessibility** features and requirments. This is all done through the use of HTML5 **Semantic Elements**.
+   ### This version of Horiseon is an optimized edition with **SEO** and **Accessibility** features and requirments. This is all done through the use of HTML **Semantic Elements**.
 
 
 ## What's new?
