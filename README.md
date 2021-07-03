@@ -1,6 +1,6 @@
 # Horiseon SEO optimized
 
-   ### This version of Horiseon is an optimized edition with **SEO** and **Accessibility** features and requirments. This is all done through the use of HTML5 **Semantic Elements**.
+   ### This version of Horiseon is an optimized edition with **SEO** and **Accessibility** features and requirments. This is all done through the use of HTML **Semantic Elements**.
 
 
 ## What's new?
@@ -20,3 +20,6 @@
 
     -CSS and HTML comments and links help other developers understand what others left behind.
 
+
+### Link to Github pages:
+   # https://nbk-01.github.io/Horiseon-SEO-optimized/
